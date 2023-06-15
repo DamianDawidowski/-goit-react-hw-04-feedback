@@ -1,0 +1,8 @@
+.feedbackBtn {
+  background-color: #f1ecec;
+  border-radius: 5px;
+}
+.feedbackBtn:hover {
+  background-color: #3c75e7;
+  color: #fff;
+}
